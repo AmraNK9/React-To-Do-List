@@ -1,0 +1,24 @@
+.container{
+    margin-top: 10px;
+    justify-content: space-between;
+    padding: 10px 20px;
+    width: 70%;
+    border-radius: 10px;
+}
+button{
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-weight: 600;
+}
+
+input{
+    margin-right: 10px;
+    padding: 5px ;
+}
+
+.completed{
+    text-decoration: line-through;
+}
